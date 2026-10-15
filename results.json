@@ -1,0 +1,512 @@
+[
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033856,
+    "telemetry": {
+      "soil_moisture_percent": 67,
+      "soil_temperature_celsius": 31.6,
+      "air_temperature_celsius": 35.5,
+      "air_humidity_percent": 73,
+      "water_ph": 7.7
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033861,
+    "telemetry": {
+      "soil_moisture_percent": 64,
+      "soil_temperature_celsius": 29.9,
+      "air_temperature_celsius": 35.8,
+      "air_humidity_percent": 88.8,
+      "water_ph": 5.9
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033866,
+    "telemetry": {
+      "soil_moisture_percent": 65,
+      "soil_temperature_celsius": 27,
+      "air_temperature_celsius": 41.1,
+      "air_humidity_percent": 43.9,
+      "water_ph": 5.4
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 9.6
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033871,
+    "telemetry": {
+      "soil_moisture_percent": 48,
+      "soil_temperature_celsius": 27.6,
+      "air_temperature_celsius": 23,
+      "air_humidity_percent": 52.2,
+      "water_ph": 7.7
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033876,
+    "telemetry": {
+      "soil_moisture_percent": 68,
+      "soil_temperature_celsius": 20.6,
+      "air_temperature_celsius": 37,
+      "air_humidity_percent": 44.2,
+      "water_ph": 7.7
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 17.7
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033881,
+    "telemetry": {
+      "soil_moisture_percent": 52,
+      "soil_temperature_celsius": 31.3,
+      "air_temperature_celsius": 22.9,
+      "air_humidity_percent": 89.7,
+      "water_ph": 7.5
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 16.5
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033886,
+    "telemetry": {
+      "soil_moisture_percent": 32,
+      "soil_temperature_celsius": 26.7,
+      "air_temperature_celsius": 35,
+      "air_humidity_percent": 47,
+      "water_ph": 6.6
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033891,
+    "telemetry": {
+      "soil_moisture_percent": 69,
+      "soil_temperature_celsius": 21.4,
+      "air_temperature_celsius": 28,
+      "air_humidity_percent": 86.1,
+      "water_ph": 5.8
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 13.3
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033896,
+    "telemetry": {
+      "soil_moisture_percent": 29,
+      "soil_temperature_celsius": 34.8,
+      "air_temperature_celsius": 25.2,
+      "air_humidity_percent": 84.5,
+      "water_ph": 5.4
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 17.7
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033901,
+    "telemetry": {
+      "soil_moisture_percent": 19,
+      "soil_temperature_celsius": 29.4,
+      "air_temperature_celsius": 41,
+      "air_humidity_percent": 42.7,
+      "water_ph": 5.2
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 16.7
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033906,
+    "telemetry": {
+      "soil_moisture_percent": 33,
+      "soil_temperature_celsius": 31,
+      "air_temperature_celsius": 27.7,
+      "air_humidity_percent": 49.1,
+      "water_ph": 7.8
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033911,
+    "telemetry": {
+      "soil_moisture_percent": 33,
+      "soil_temperature_celsius": 23,
+      "air_temperature_celsius": 27.4,
+      "air_humidity_percent": 80.6,
+      "water_ph": 7.3
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033916,
+    "telemetry": {
+      "soil_moisture_percent": 32,
+      "soil_temperature_celsius": 20.2,
+      "air_temperature_celsius": 28.8,
+      "air_humidity_percent": 46,
+      "water_ph": 5.6
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 8.9
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033921,
+    "telemetry": {
+      "soil_moisture_percent": 59,
+      "soil_temperature_celsius": 22.2,
+      "air_temperature_celsius": 29.8,
+      "air_humidity_percent": 57,
+      "water_ph": 8
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 13.7
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033926,
+    "telemetry": {
+      "soil_moisture_percent": 76,
+      "soil_temperature_celsius": 21.4,
+      "air_temperature_celsius": 29.8,
+      "air_humidity_percent": 56.6,
+      "water_ph": 6.6
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 13.4
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033931,
+    "telemetry": {
+      "soil_moisture_percent": 18,
+      "soil_temperature_celsius": 33.1,
+      "air_temperature_celsius": 35.7,
+      "air_humidity_percent": 64.7,
+      "water_ph": 5.8
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033936,
+    "telemetry": {
+      "soil_moisture_percent": 52,
+      "soil_temperature_celsius": 27.4,
+      "air_temperature_celsius": 22.8,
+      "air_humidity_percent": 64.1,
+      "water_ph": 5.4
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 15.8
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033941,
+    "telemetry": {
+      "soil_moisture_percent": 32,
+      "soil_temperature_celsius": 33,
+      "air_temperature_celsius": 40.7,
+      "air_humidity_percent": 48.3,
+      "water_ph": 6.5
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033946,
+    "telemetry": {
+      "soil_moisture_percent": 57,
+      "soil_temperature_celsius": 34.5,
+      "air_temperature_celsius": 29.1,
+      "air_humidity_percent": 74.5,
+      "water_ph": 7.9
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 5.2
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033951,
+    "telemetry": {
+      "soil_moisture_percent": 70,
+      "soil_temperature_celsius": 24.1,
+      "air_temperature_celsius": 37.2,
+      "air_humidity_percent": 94.6,
+      "water_ph": 8.4
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033956,
+    "telemetry": {
+      "soil_moisture_percent": 36,
+      "soil_temperature_celsius": 31.9,
+      "air_temperature_celsius": 24.9,
+      "air_humidity_percent": 54.6,
+      "water_ph": 6.9
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 9.5
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033961,
+    "telemetry": {
+      "soil_moisture_percent": 37,
+      "soil_temperature_celsius": 33.7,
+      "air_temperature_celsius": 23.3,
+      "air_humidity_percent": 47.1,
+      "water_ph": 7.1
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 17.5
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033966,
+    "telemetry": {
+      "soil_moisture_percent": 73,
+      "soil_temperature_celsius": 25.7,
+      "air_temperature_celsius": 27.6,
+      "air_humidity_percent": 71.4,
+      "water_ph": 5.6
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033971,
+    "telemetry": {
+      "soil_moisture_percent": 74,
+      "soil_temperature_celsius": 23.3,
+      "air_temperature_celsius": 24.4,
+      "air_humidity_percent": 83.5,
+      "water_ph": 6.7
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033976,
+    "telemetry": {
+      "soil_moisture_percent": 23,
+      "soil_temperature_celsius": 34.2,
+      "air_temperature_celsius": 35.2,
+      "air_humidity_percent": 58,
+      "water_ph": 7.6
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 15.3
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033981,
+    "telemetry": {
+      "soil_moisture_percent": 48,
+      "soil_temperature_celsius": 30.9,
+      "air_temperature_celsius": 35.5,
+      "air_humidity_percent": 63.1,
+      "water_ph": 7.4
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033986,
+    "telemetry": {
+      "soil_moisture_percent": 61,
+      "soil_temperature_celsius": 22.5,
+      "air_temperature_celsius": 31.2,
+      "air_humidity_percent": 46.1,
+      "water_ph": 7
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033991,
+    "telemetry": {
+      "soil_moisture_percent": 57,
+      "soil_temperature_celsius": 26.9,
+      "air_temperature_celsius": 40.4,
+      "air_humidity_percent": 49.7,
+      "water_ph": 5.3
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792033996,
+    "telemetry": {
+      "soil_moisture_percent": 20,
+      "soil_temperature_celsius": 29.5,
+      "air_temperature_celsius": 22.3,
+      "air_humidity_percent": 61.6,
+      "water_ph": 6.6
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 16.6
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792034001,
+    "telemetry": {
+      "soil_moisture_percent": 71,
+      "soil_temperature_celsius": 31.9,
+      "air_temperature_celsius": 28,
+      "air_humidity_percent": 40,
+      "water_ph": 5.5
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 18.5
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792034006,
+    "telemetry": {
+      "soil_moisture_percent": 66,
+      "soil_temperature_celsius": 26.4,
+      "air_temperature_celsius": 27.3,
+      "air_humidity_percent": 57,
+      "water_ph": 6.6
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 16.2
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792034011,
+    "telemetry": {
+      "soil_moisture_percent": 78,
+      "soil_temperature_celsius": 23.1,
+      "air_temperature_celsius": 40.3,
+      "air_humidity_percent": 52.4,
+      "water_ph": 6.8
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 16.7
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792034016,
+    "telemetry": {
+      "soil_moisture_percent": 53,
+      "soil_temperature_celsius": 27.4,
+      "air_temperature_celsius": 22,
+      "air_humidity_percent": 62.2,
+      "water_ph": 5.3
+    },
+    "actuator_verification": {
+      "pump_status": true,
+      "water_flow_liters": 7.1
+    }
+  },
+  {
+    "device_id": "ESP32_NODE_01",
+    "timestamp": 1792034021,
+    "telemetry": {
+      "soil_moisture_percent": 40,
+      "soil_temperature_celsius": 28,
+      "air_temperature_celsius": 40.3,
+      "air_humidity_percent": 64.7,
+      "water_ph": 5.4
+    },
+    "actuator_verification": {
+      "pump_status": false,
+      "water_flow_liters": 0
+    }
+  }
+]
